@@ -1,7 +1,16 @@
-## Create
+# K2's Lists / Create / Performance
 
 ### Extra performance and shaders with create:
-Up to date as of 07/11/2025
+Up to date as of 07/11/2025 <br>
+Read through the top table then select the relevant version from the bottom table
+
+### Mods that cause rendering errors:
+
+| Mod          | Fix              |
+|--------------|------------------|
+| More Culling | Config or remove |
+
+### Info for each version:
 
 |           | Forge | NeoForge                                                                           | Fabric or Quilt |
 |-----------|-------|------------------------------------------------------------------------------------|--------|
@@ -16,29 +25,4 @@ Up to date as of 07/11/2025
 | 1.16.4    | [Forge 1.16.4](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.16.4/forge.md) | N/s                                                                                | N/A    |
 | 1.16.3    | [Forge 1.16.3](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.16.3/forge.md) | N/A                                                                                | N/A    |
 | 1.15.2    | [Forge 1.15.2](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.15.2/forge.md) | N/A                                                                                | N/A    |
-| 1.14.4    | [Forge 1.14.4](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.14.4/forge.md) | N/A                                                                                | N/A    |
-
-### Discord embeds:
-References to commands are for the steam and rails and create server, commands may not work in others
-
-Copy and paste the given links to use the embeds
-
-https://k2568.github.io/create/embeds/rendering <br>
-<br>
-![](https://raw.githubusercontent.com/K2568/k2568.github.io/refs/heads/main/create/media/embedpreview/rendering.png)
-
-https://k2568.github.io/create/embeds/performance <br>
-<br>
-![](https://raw.githubusercontent.com/K2568/k2568.github.io/refs/heads/main/create/media/embedpreview/performance.png)
-
-https://k2568.github.io/create/embeds/binarysearch <br>
-<br>
-![](https://raw.githubusercontent.com/K2568/k2568.github.io/refs/heads/main/create/media/embedpreview/binarysearch.png)
-
-https://k2568.github.io/create/embeds/flywheel <br>
-<br>
-![](https://raw.githubusercontent.com/K2568/k2568.github.io/refs/heads/main/create/media/embedpreview/flywheel.png)
-
-https://k2568.github.io/create/embeds/snr <br>
-<br>
-![](https://raw.githubusercontent.com/K2568/k2568.github.io/refs/heads/main/create/media/embedpreview/snr.png)
+| 1.14.4    | [Forge 1.14.4](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.14.4/forge.md) | N/A                                                                        | N/A    |
