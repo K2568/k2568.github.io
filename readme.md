@@ -25,20 +25,20 @@ Copy and paste the given links to use the embeds
 
 https://k2568.github.io/create/embeds/rendering <br>
 <br>
-![](https://github.com/K2568/K2568.github.io/media/embedpreview/rendering.png?raw=true)
+![](https://github.com/K2568/k2568.github.io/tree/main/create/media/embedpreview/rendering.png?raw=true)
 
 https://k2568.github.io/create/embeds/performance <br>
 <br>
-![](https://github.com/K2568/K2568.github.io/media/embedpreview/performance.png?raw=true)
+![](https://github.com/K2568/k2568.github.io/tree/main/create/media/embedpreview/performance.png?raw=true)
 
 https://k2568.github.io/create/embeds/binarysearch <br>
 <br>
-![](https://github.com/K2568/K2568.github.io/media/embedpreview/binarysearch.png?raw=true)
+![](https://github.com/K2568/k2568.github.io/tree/main/create/media/embedpreview/binarysearch.png?raw=true)
 
 https://k2568.github.io/create/embeds/flywheel <br>
 <br>
-![](https://github.com/K2568/K2568.github.io/media/embedpreview/flywheel.png?raw=true)
+![](https://github.com/K2568/k2568.github.io/tree/main/create/media/embedpreview/flywheel.png?raw=true)
 
 https://k2568.github.io/create/embeds/snr <br>
 <br>
-![](https://github.com/K2568/K2568.github.io/media/embedpreview/snr.png?raw=true)
+![](https://github.com/K2568/k2568.github.io/tree/main/create/media/embedpreview/snr.png?raw=true)
