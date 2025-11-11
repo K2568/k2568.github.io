@@ -12,4 +12,4 @@ Pretty In Pink <br>
 ### Buffers, couplers and smokestacks:
 For smokestacks, follow this tutorial and place a campfire under the generated block for the smoke.<br>
 
-https://youtu.be/hWP3-NBzoEU
+[https://youtu.be/hWP3-NBzoEU](https://youtu.be/hWP3-NBzoEU)
