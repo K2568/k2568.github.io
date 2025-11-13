@@ -12,11 +12,6 @@ Server mods are only needed on the server end, if you are hosting with essential
 Both mods will be needed on both client and server for players to be able to join while they are present.
 
 If you are playing singleplayer you can ignore the client, server, both tags.<br>
-<br>
-
-If you dont want to manually install the mods this is the recommended modpack: <br>
-[Download Latest Forge Modrinth](https://modrinth.com/modpack/hammer/versions?c=release&c=beta&c=alpha&g=1.20.1&l=forge) <br>
-[Download Latest NeoForge Modrinth](https://modrinth.com/modpack/hammer/versions?c=release&c=beta&c=alpha&g=1.20.1&l=neoforge)
 
 ## If you want to use shaders:
 
