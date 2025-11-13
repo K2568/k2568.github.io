@@ -13,3 +13,5 @@ Pretty In Pink <br>
 For smokestacks, follow this tutorial and place a campfire under the generated block for the smoke.<br>
 
 [https://youtu.be/hWP3-NBzoEU](https://youtu.be/hWP3-NBzoEU)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hWP3-NBzoEU?si=vwAg_pt9JIYszWbn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
