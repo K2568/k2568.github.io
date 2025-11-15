@@ -18,7 +18,6 @@ If you are playing singleplayer you can ignore the client, server, both tags.<br
 |                    | Modrinth        | Curseforge      |
 |--------------------|-----------------|-----------------|
 | Oculus             | [Download Latest](https://modrinth.com/mod/oculus/versions?c=beta&c=release&g=1.20.1&l=neoforge) | [Download Latest](https://www.curseforge.com/minecraft/mc-mods/oculus/files/all?page=1&pageSize=20&version=1.20.1&gameVersionTypeID=6&showAlphaFiles=show) |
-| Create Better FPS  | [Download Latest](https://modrinth.com/mod/createbetterfps/versions?c=beta&c=release&g=1.20.1&l=forge) | [Download Latest](https://www.curseforge.com/minecraft/mc-mods/create-better-fps/files/all?page=1&pageSize=20&version=1.20.1&gameVersionTypeID=1&showAlphaFiles=show) |
 | Iris Flywheel Compat| [Download Latest](https://modrinth.com/mod/iris-flw-compat/versions?c=release&c=beta&c=alpha&g=1.20.1&l=forge) | [Download Latest](https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat/files/all?page=1&pageSize=20&version=1.20.1&gameVersionTypeId=1&showAlphaFiles=show) |
 
 If you still experience rendering problems or lost performance try all flywheel backends including the one Iris Flywheel Compat adds: <br>
