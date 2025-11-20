@@ -32,3 +32,9 @@ If the shaderpack you use is on this list then you only need Iris, Create Better
 | Colorwheel         | [Download Latest](https://modrinth.com/mod/colorwheel/versions?c=beta&c=release&g=1.21.1&l=neoforge) | [Download Latest](https://www.curseforge.com/minecraft/mc-mods/colorwheel/files/all?page=1&pageSize=20&version=1.21.1&gameVersionTypeId=6&showAlphaFiles=show) |
 | Colorwheel Patcher | [Download Latest](https://modrinth.com/mod/colorwheel-patcher/versions?c=beta&c=release&g=1.21.1&l=neoforge) | [Download Latest](https://www.curseforge.com/minecraft/mc-mods/colorwheel-patcher/files/all?page=1&pageSize=20&version=1.21.1&gameVersionTypeId=6&showAlphaFiles=show) |
 
+If you still experience rendering problems or lost performance try all flywheel backends including the one Colorwheel adds:
+/flywheel backend colorwheel:instancing
+/flywheel backend batching
+/flywheel backend instancing
+
+/flywheel backend off 

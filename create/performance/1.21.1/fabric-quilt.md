@@ -1,5 +1,7 @@
 # K2568.github.io / Create / Performance / 1.21.1 / Fabric-Quilt
 
+# Why are you on this page, create fabric 1.21.1 is cancelled
+
 ## Extra performance:
 
 [List of performance mods from TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods/blob/main/Performance/Performance121.md#fabric-121x)
@@ -35,3 +37,10 @@ If the shaderpack you use is on this list then you only need Iris, Create Better
 | Create Better FPS  | [Download Latest](https://modrinth.com/mod/createbetterfps/versions?c=beta&c=release&g=1.21.1&l=fabric) | [Download Latest](https://www.curseforge.com/minecraft/mc-mods/create-better-fps/files/all?page=1&pageSize=20&version=1.21.1&gameVersionTypeId=4&showAlphaFiles=show) |
 | Colorwheel         | [Download Latest](https://modrinth.com/mod/colorwheel/versions?c=beta&c=release&g=1.21.1&l=fabric) | [Download Latest](https://www.curseforge.com/minecraft/mc-mods/colorwheel/files/all?page=1&pageSize=20&version=1.21.1&gameVersionTypeId=4&showAlphaFiles=show) |
 | Colorwheel Patcher | [Download Latest](https://modrinth.com/mod/colorwheel-patcher/versions?c=beta&c=release&g=1.21.1&l=fabric) | [Download Latest](https://www.curseforge.com/minecraft/mc-mods/colorwheel-patcher/files/all?page=1&pageSize=20&version=1.21.1&gameVersionTypeId=4&showAlphaFiles=show) |
+
+If you still experience rendering problems or lost performance try all flywheel backends including the one Colorwheel adds:
+/flywheel backend colorwheel:instancing
+/flywheel backend batching
+/flywheel backend instancing
+
+/flywheel backend off 

@@ -5,7 +5,7 @@ Up to date as of 07/11/2025
 
 |           | Forge | NeoForge                                                                           | Fabric or Quilt |
 |-----------|-------|------------------------------------------------------------------------------------|--------|
-| 1.21.1    | N/A   | [Neo 1.21.1](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.21.1/neo.md) | Waiting for update    |
+| 1.21.1    | N/A   | [Neo 1.21.1](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.21.1/neo.md) | N/A    |
 | 1.20.1 C6 | [(Neo)Forge 1.20.1 C6](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.20.1-C6/(neo)forge.md) | [(Neo)Forge 1.20.1 C6](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.20.1-C6/(neo)forge.md) | [Fabric-Quilt 1.20.1 C6](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.20.1-C6/fabric-quilt.md) |
 | 1.20.1 C5 | [(Neo)Forge 1.20.1 C5](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.20.1-C5/(neo)forge.md) | [(Neo)Forge 1.20.1 C5](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.20.1-C5/(neo)forge.md) | [Fabric-Quilt 1.20.1 C5](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.20.1-C5/fabric-quilt.md) |
 | 1.19.2    | [Forge 1.19.2](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.19.2/forge.md) | N/A | [Fabric-Quilt 1.19.2](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.19.2/fabric-quilt.md) |
