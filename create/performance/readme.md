@@ -14,7 +14,7 @@ Read through the top table then select the relevant version from the bottom tabl
 
 |           | Forge | NeoForge                                                                           | Fabric or Quilt |
 |-----------|-------|------------------------------------------------------------------------------------|--------|
-| 1.21.14 Create Fly | N/A   | N/A | [Fabric-Quilt 1.21.14](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.21.14-CFly/fabric-quilt.md) |
+| 1.21.10 Create Fly | N/A   | N/A | [Fabric-Quilt 1.21.10](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.21.10-CFly/fabric-quilt.md) |
 | 1.21.10 Create Fly | N/A   | N/A | [Fabric-Quilt 1.21.10](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.21.10-CFly/fabric-quilt.md) |
 | 1.21.1 | N/A   | [Neo 1.21.1](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.21.1/neo.md) | N/A    |
 | 1.20.1 Create 6| [(Neo)Forge 1.20.1 C6](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.20.1-C6/(neo)forge.md) | [(Neo)Forge 1.20.1 C6](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.20.1-C6/(neo)forge.md) | [Fabric-Quilt 1.20.1 C6](https://github.com/K2568/k2568.github.io/blob/main/create/performance/1.20.1-C6/fabric-quilt.md) |
