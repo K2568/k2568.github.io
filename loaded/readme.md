@@ -1,7 +1,7 @@
-# Get cheaper cdkeys prices in the UK guide:
+# Get cheaper Loaded (CDKeys) prices in the UK guide:
 <head>
-    <meta property="og:title" content="Get cheaper cdkeys prices in the UK guide:">
-    <meta property="og:description" content="This is a guide on how to get around the 20% tax on cdkeys, no offsite links or weird affiliate codes. Purely making use of a paypal feature. 
+    <meta property="og:title" content="Get cheaper Loaded prices in the UK guide:">
+    <meta property="og:description" content="This is a guide on how to get around the 20% tax on Loaded, no offsite links or weird affiliate codes. Purely making use of a paypal feature. 
       Click the title to open.">
 </head>
 <img src="https://github.com/user-attachments/assets/65bcab03-9065-4150-afab-c3c3bf16c444" />
