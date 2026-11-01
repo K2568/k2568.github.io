@@ -4,8 +4,9 @@
 ## Unblock Imgur:
 ### Tampermonkey script:
 Works by replacing Imgur embed links with proxied links. <br>
-Premade script I found: https://theo.is-a.dev/blog/accessing-imgur-in-uk/
+Premade script I found: [https://theo.is-a.dev/blog/accessing-imgur-in-uk/](https://theo.is-a.dev/blog/accessing-imgur-in-uk/)
 <br>
 ### VPN:
 Any VPN routing you to another country works. <br>
-Recommended free VPN: https://protonvpn.com/
+Recommended free VPN: [https://protonvpn.com/
+](https://protonvpn.com/)
