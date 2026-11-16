@@ -1,6 +1,4 @@
 ## Pizza calculator
-
-Enter pizza diameters separated by spaces to calculate the equivalent diameter of one pizza with the same total area.
 ### Pizza sizes:
 <input id="input_sizes" type="text" inputmode="decimal" placeholder="10 11 12">
 
